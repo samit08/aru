@@ -1,0 +1,21 @@
+ID,Name,Age,Gender,Salary,Joining Date,Department,Notes
+1,Alice,25,M,50000,2020-01-15,HR,Good
+2,Bob,30,F,60000,2019-07-23,Finance,Average
+3,Charlie,,Male,55000,2018-05-12,IT,?
+4,David,45,Female,,not available,IT,Excellent
+5,Eve,22,M,70000,2021/03/10,Finance,New joiner
+6,Frank,29,F,65000,2018-11-30,HR,
+7,Grace,Thirty,Unknown,sixty thousand,2017-13-01,Finance,Promoted
+8,Heidi,33,F,62000,2019-02-29,,?
+9,Ivan,27,M,,2020-06-31,IT,On probation
+10,Judy,,F,58000,2021-08-15,HR,Average
+11,Mallory,40,Male,72000,2018-04-25,Finance,?
+12,Niaj,31,Female,54000,invalid,Finance,Transferred
+13,Olivia,36,M,56000,2019-09-10,HR,Good
+14,Peggy,NaN,F,59000,2018-12-01,IT,?
+15,Sybil,28,Other,?,2021-05-20,HR,Excellent
+16,Trent,26,F,60000,2017-10-10,Finance,Average
+17,Victor,35,M,61000,?,IT,
+18,Walter,?,?,63000,2019-07-01,Finance,?
+19,Xavier,32,F,64000,2020-03-15,IT,Promoted
+20,Yvonne,24,M,65000,2018-02-28,HR,New joiner
